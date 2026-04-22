@@ -12,15 +12,15 @@ Output demo_manual.gif
   Enter
   Sleep 1500ms
   Type "0"
-  Sleep 400ms
+  Sleep 300ms
   Type "0"
-  Sleep 400ms
+  Sleep 300ms
   Type "0"
-  Sleep 400ms
+  Sleep 300ms
   Type "0"
-  Sleep 400ms
+  Sleep 300ms
   Type "0"
-  Sleep 400ms
+  Sleep 300ms
   Type "7"
   Sleep 1s
   Enter
@@ -28,7 +28,9 @@ Output demo_manual.gif
 
   Set TypingSpeed 77ms
 
-  Type "/Users/linuxg/Music/truisms_4_dummies.mp3"
+  Type "/home/linuxg/Musik/Super Survivor.flac"
+  Sleep 1s
+  Enter
   Sleep 1s
   Enter
   Sleep 9s
